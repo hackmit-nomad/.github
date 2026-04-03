@@ -1,2 +1,2 @@
-[https://github.com/hackmit-nomad/frontend1](https://github.com/hackmit-nomad/web) - frontend
-[https://github.com/hackmit-nomad/backend](https://github.com/hackmit-nomad/backend) - backend
+[https://github.com/usenomad/web](https://github.com/usenomad/web) - frontend
+[https://github.com/usenomad/backend](https://github.com/usenomad/backend) - backend
